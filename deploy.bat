@@ -9,7 +9,7 @@ echo Dosyalar hazirlaniyor...
 "C:\Program Files\Git\cmd\git.exe" commit -m "Auto Update"
 "C:\Program Files\Git\cmd\git.exe" branch -M main
 "C:\Program Files\Git\cmd\git.exe" remote remove origin
-"C:\Program Files\Git\cmd\git.exe" remote add origin https://github.com/senyyyw21/voiddtr.git
+"C:\Program Files\Git\cmd\git.exe" remote add origin https://github.com/senyyyw21/manifestgeneretor.git
 
 echo.
 echo Github'a gonderiliyor...
